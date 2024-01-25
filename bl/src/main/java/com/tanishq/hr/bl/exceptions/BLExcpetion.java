@@ -1,4 +1,4 @@
-package com.tanishq.hr.bl.exceptions;
+package com.prasang.hr.bl.exceptions;
 import java.util.*;
 public class BLException extends Exception
 {
