@@ -1,6 +1,6 @@
-package com.tanishq.hr.dl.dto;
-import com.tanishq.enums.*;
-import com.tanishq.hr.dl.interfaces.dto.*;
+package com.prasang.hr.dl.dto;
+import com.prasang.enums.*;
+import com.prasang.hr.dl.interfaces.dto.*;
 import java.math.*;
 import java.util.*;
 public class EmployeeDTO implements EmployeeDTOInterface
