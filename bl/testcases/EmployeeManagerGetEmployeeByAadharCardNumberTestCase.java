@@ -1,9 +1,9 @@
-import com.tanishq.hr.bl.managers.*;
-import com.tanishq.enums.*;
-import com.tanishq.hr.bl.interfaces.managers.*;
-import com.tanishq.hr.bl.interfaces.pojo.*;
-import com.tanishq.hr.bl.pojo.*;
-import com.tanishq.hr.bl.exceptions.*;
+import com.prasang.hr.bl.managers.*;
+import com.prasang.enums.*;
+import com.prasang.hr.bl.interfaces.managers.*;
+import com.prasang.hr.bl.interfaces.pojo.*;
+import com.prasang.hr.bl.pojo.*;
+import com.prasang.hr.bl.exceptions.*;
 import java.util.*;
 import java.text.*;
 import java.math.*;
