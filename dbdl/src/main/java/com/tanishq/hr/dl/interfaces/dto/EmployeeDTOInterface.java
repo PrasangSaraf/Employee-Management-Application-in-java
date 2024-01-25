@@ -1,5 +1,5 @@
-package com.tanishq.hr.dl.interfaces.dto;
-import com.tanishq.enums.*;
+package com.prasang.hr.dl.interfaces.dto;
+import com.prasang.enums.*;
 import java.math.*;
 import java.util.*;
 public interface EmployeeDTOInterface extends Comparable<EmployeeDTOInterface>,java.io.Serializable
