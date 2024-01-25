@@ -1,4 +1,4 @@
-package com.tanishq.hr.bl.interfaces.pojo;
+package com.prasang.hr.bl.interfaces.pojo;
 public interface DesignationInterface extends java.io.Serializable,Comparable<DesignationInterface>
 {
 public void setCode(int code);
