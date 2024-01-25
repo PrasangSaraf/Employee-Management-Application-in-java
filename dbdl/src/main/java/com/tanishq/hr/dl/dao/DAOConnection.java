@@ -1,5 +1,5 @@
-package com.tanishq.hr.dl.dao;
-import com.tanishq.hr.dl.exceptions.*;
+package com.prasang.hr.dl.dao;
+import com.prasang.hr.dl.exceptions.*;
 import java.sql.*;
 public class DAOConnection
 {
