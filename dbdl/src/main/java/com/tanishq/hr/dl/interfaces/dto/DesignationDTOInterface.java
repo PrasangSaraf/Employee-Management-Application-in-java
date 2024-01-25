@@ -1,4 +1,4 @@
-package com.tanishq.hr.dl.interfaces.dto;
+package com.prasang.hr.dl.interfaces.dto;
 public interface DesignationDTOInterface extends Comparable<DesignationDTOInterface>,java.io.Serializable
 {
 public void setCode(int code);
