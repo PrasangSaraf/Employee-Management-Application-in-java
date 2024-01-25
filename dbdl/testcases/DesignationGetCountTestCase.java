@@ -1,6 +1,6 @@
-import com.tanishq.hr.dl.exceptions.*;
-import com.tanishq.hr.dl.interfaces.dao.*;
-import com.tanishq.hr.dl.dao.*;
+import com.prasang.hr.dl.exceptions.*;
+import com.prasang.hr.dl.interfaces.dao.*;
+import com.prasang.hr.dl.dao.*;
 public class DesignationGetCountTestCase
 {
 public static void main(String gg[])
