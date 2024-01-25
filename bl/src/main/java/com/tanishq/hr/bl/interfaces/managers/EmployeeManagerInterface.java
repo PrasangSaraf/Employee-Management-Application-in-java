@@ -1,7 +1,7 @@
-package com.tanishq.hr.bl.interfaces.managers;
-import com.tanishq.hr.bl.interfaces.pojo.*;
-import com.tanishq.hr.bl.pojo.*;
-import com.tanishq.hr.bl.exceptions.*;
+package com.prasang.hr.bl.interfaces.managers;
+import com.prasang.hr.bl.interfaces.pojo.*;
+import com.prasang.hr.bl.pojo.*;
+import com.prasang.hr.bl.exceptions.*;
 import java.util.*;
 public interface EmployeeManagerInterface
 {
