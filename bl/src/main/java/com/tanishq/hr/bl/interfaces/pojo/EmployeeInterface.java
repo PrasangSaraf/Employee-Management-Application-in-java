@@ -1,5 +1,5 @@
-package com.tanishq.hr.bl.interfaces.pojo;
-import com.tanishq.enums.*;
+package com.prasang.hr.bl.interfaces.pojo;
+import com.prasang.enums.*;
 import java.math.*;
 import java.util.*;
 public interface EmployeeInterface extends Comparable<EmployeeInterface>,java.io.Serializable
