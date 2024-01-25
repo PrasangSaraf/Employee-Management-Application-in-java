@@ -1,5 +1,5 @@
-package com.tanishq.hr.pl;
-import com.tanishq.hr.pl.ui.*;
+package com.prasang.hr.pl;
+import com.prasang.hr.pl.ui.*;
 class Main
 {
 public static void main(String args[])
