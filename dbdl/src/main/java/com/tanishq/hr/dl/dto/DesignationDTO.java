@@ -1,5 +1,5 @@
-package com.tanishq.hr.dl.dto;
-import com.tanishq.hr.dl.interfaces.dto.*;
+package com.prasang.hr.dl.dto;
+import com.prasang.hr.dl.interfaces.dto.*;
 public class DesignationDTO implements DesignationDTOInterface
 {
 private int code;
