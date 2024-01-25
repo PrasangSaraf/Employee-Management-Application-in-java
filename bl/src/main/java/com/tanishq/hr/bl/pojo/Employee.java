@@ -1,6 +1,6 @@
-package com.tanishq.hr.bl.pojo;
-import com.tanishq.enums.*;
-import com.tanishq.hr.bl.interfaces.pojo.*;
+package com.prasang.hr.bl.pojo;
+import com.prasang.enums.*;
+import com.prasang.hr.bl.interfaces.pojo.*;
 import java.math.*;
 import java.util.*;
 public class Employee implements EmployeeInterface
