@@ -1,5 +1,5 @@
-package com.tanishq.hr.bl.pojo;
-import com.tanishq.hr.bl.interfaces.pojo.*;
+package com.prasang.hr.bl.pojo;
+import com.prasang.hr.bl.interfaces.pojo.*;
 public class Designation implements DesignationInterface
 {
 private int code;
