@@ -1,8 +1,8 @@
-package com.tanishq.hr.dl.dao;
-import com.tanishq.hr.dl.dto.*;
-import com.tanishq.hr.dl.interfaces.dto.*;
-import com.tanishq.hr.dl.interfaces.dao.*;
-import com.tanishq.hr.dl.exceptions.*;
+package com.prasang.hr.dl.dao;
+import com.prasang.hr.dl.dto.*;
+import com.prasang.hr.dl.interfaces.dto.*;
+import com.prasang.hr.dl.interfaces.dao.*;
+import com.prasang.hr.dl.exceptions.*;
 import java.util.*;
 import java.sql.*;
 public class DesignationDAO implements DesignationDAOInterface
